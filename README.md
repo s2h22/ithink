@@ -6,29 +6,29 @@
 
 ## Navigation
 
+### Health & Body
+- [Nutrition](health/nutrition.md)
+- [Sleep](health/sleep.md)
+- [Workout](health/workout.md)
+
+### Ideas & Finance
+- [Finance Principles](finance/principles.md)
+- [Random Ideas](ideas/random.md)
+
 ### Life & Mindset
-- [Values](life/values.md)
 - [Goals](life/goals.md)
-- [Reflections](life/reflections.md)
 - [Habits](life/habits.md)
+- [Reflections](life/reflections.md)
+- [Values](life/values.md)
+
+### Relationships
+- [Lindsay](relationships/Lindsay.md)
+- [People](relationships/people.md)
+- [Principles](relationships/principles.md)
 
 ### Work & Career
 - [Career Goals](work/career-goals.md)
+- [Lessons](work/lessons.md)
 - [Postdoc](work/postdoc.md)
 - [Skills](work/skills.md)
 - [Wins](work/wins.md)
-- [Lessons](work/lessons.md)
-
-### Relationships
-- [People](relationships/people.md)
-- [Principles](relationships/principles.md)
-- [Lindsay](relationships/Lindsay.md)
-
-### Health & Body
-- [Workout](health/workout.md)
-- [Nutrition](health/nutrition.md)
-- [Sleep](health/sleep.md)
-
-### Ideas & Finance
-- [Random Ideas](ideas/random.md)
-- [Finance Principles](finance/principles.md)
