@@ -1,5 +1,3 @@
-![mymelo](imgs/mymelo.jpg)
-
 # I think
 
 > My thought bowl.
