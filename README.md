@@ -22,6 +22,7 @@
 ### Relationships
 - [People](relationships/people.md)
 - [Principles](relationships/principles.md)
+- [Lindsay](relationships/Lindsay.md)
 
 ### Health & Body
 - [Workout](health/workout.md)
