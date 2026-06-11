@@ -1,6 +1,6 @@
 # I think
 
-> A record, alive and growing, of who I actually am, what I'm making, and what I'm learning.
+> My thought bowl.
 
 ---
 
@@ -27,11 +27,6 @@
 - [Workout](health/workout.md)
 - [Nutrition](health/nutrition.md)
 - [Sleep](health/sleep.md)
-
-### English
-- [Vocabulary](english/vocabulary.md)
-- [Expressions](english/expressions.md)
-- [Mistakes](english/mistakes.md)
 
 ### Ideas & Finance
 - [Random Ideas](ideas/random.md)
