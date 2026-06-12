@@ -6,16 +6,18 @@
 
 ## Navigation
 
-### Health & Body
+### Finance
+- [Principles](finance/principles.md)
+
+### Health
 - [Nutrition](health/nutrition.md)
 - [Sleep](health/sleep.md)
 - [Workout](health/workout.md)
 
-### Ideas & Finance
-- [Finance Principles](finance/principles.md)
-- [Random Ideas](ideas/random.md)
+### Ideas
+- [Random](ideas/random.md)
 
-### Life & Mindset
+### Life
 - [Goals](life/goals.md)
 - [Habits](life/habits.md)
 - [Reflections](life/reflections.md)
@@ -26,7 +28,7 @@
 - [People](relationships/people.md)
 - [Principles](relationships/principles.md)
 
-### Work & Career
+### Work
 - [Career Goals](work/career-goals.md)
 - [Lessons](work/lessons.md)
 - [Postdoc](work/postdoc.md)
