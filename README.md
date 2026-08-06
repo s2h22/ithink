@@ -1,6 +1,6 @@
 # I think
 
-> My thought bowl.
+My thought bowl
 
 ---
 
