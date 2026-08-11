@@ -30,6 +30,11 @@
 분명 아닐 것이다. 그렇다면 교수님이 코딩을 하고 알고리즘을 짠다면 나보다 더 잘했을 것인가? 아마 교수님이 조금 더 잘할 것이다. 하지만 나는 
 교수님에 비해 뒤쳐지지 않을 기술적 기여도를 만들 수 있는 스킬과 역량이 지금 있다고 생각한다 (분야마다 다르겠지만). 관리자로서 연구자로서 둘 다 정말 
 잘하고 싶다. 역시 끊임없이 공부하고 배워야 함을 느낀다. 그렇게 할 것이다.
+- 내권화를 피해야 한다. 생산성 없이 회의만을 위한 회의를 하지 말자.
+- no solution or alternative but only nay-saying is getting no where.
+- (hypothetically speaking) 내 학생을 가르침에 있어 부정적 강화보다는 긍정적 강화를 해야겠다.
+- (hypothetically speaking) 내 학생이 나와 미팅하고 토론하는걸 피하고 싶지 않게 만들어야겠다.
+- (hypothetically speaking) 소위 학생들을 풀어주면, 대부분은 아마 정말 풀어지겠지만, 그때 발생하는 건방짐, 무책임, 불성실을 내가 받아들이고 짜증을 안낼만큼의 마음의 넓이를 나는 가지고 있는가? 없다면 그럴 수 있도록 개발을 한다. 
 
 ## Research Focus
 
@@ -48,10 +53,12 @@
 ## Skills & Tools I'm Developing
 
 <!-- Methods, software, domain knowledge specific to this postdoc. -->
+-how to teach and guide students and manage a lab.
 
 ## Challenges
 
 <!-- Things that are hard right now — academic, personal, logistical. -->
+- so many involutionary meetings with no progress. this is discouraging. I got a lesson from it at least tho. 
 
 ## What I Want to Get Out of This
 
