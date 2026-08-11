@@ -53,12 +53,12 @@
 ## Skills & Tools I'm Developing
 
 <!-- Methods, software, domain knowledge specific to this postdoc. -->
--how to teach and guide students and manage a lab.
+- How to teach and guide students and manage a lab.
 
 ## Challenges
 
 <!-- Things that are hard right now — academic, personal, logistical. -->
-- so many involutionary meetings with no progress. this is discouraging. I got a lesson from it at least tho. 
+- Involutionary meetings with no progress made. This is just discouraging. I got a lesson from it at least tho. 
 
 ## What I Want to Get Out of This
 
