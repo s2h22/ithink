@@ -16,6 +16,6 @@
 
 ## Milestones
 
-| Milestone | Target Date | Done? |
-|-----------|-------------|-------|
-|           |             |       |
+| Milestone | Target Date | Done?       |
+|-----------|-------------|-------------|
+| professor | 2027        | on progress |

@@ -12,6 +12,8 @@
 
 ## In Professional Relationships
 
+- I'm learning how to cope with subtle conflicts with boss.  
+
 ## Things I'm Working On
 
 <!-- Patterns you've noticed in yourself that you want to change. -->
