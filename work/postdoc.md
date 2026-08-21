@@ -10,7 +10,7 @@
 - Lab / PI: Prof. Daehyung Park
 - Start date: May 1th 2026
 - End date:
-- Field / Topic: Robotics--navigation
+- Field / Topic: Robotics — Navigation
 
 ## What I learn from my PI
 
